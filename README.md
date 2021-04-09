@@ -1,6 +1,6 @@
 # PLeS207_platform
-PLeS207 Platform repository
-##Этапы выполнения ДЗ №1
+PLeS207 Platform repository  
+## Этапы выполнения ДЗ №1
 1. Создал Dockerfile для nginx
 2. Собрал и запушил образ в Docker Hub
 3. Написал Манифест для запуска образа сделанного на предыдущем этапе
