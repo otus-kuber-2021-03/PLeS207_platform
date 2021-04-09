@@ -10,7 +10,7 @@ spec:
     image: ples/otus-02:latest
     volumeMounts:
     - name: app
-      mountPath: /var/www/html
+      mountPath: /app
   initContainers:
   - name: init-web
     image: busybox
