@@ -17,3 +17,12 @@ PLeS207 Platform repository
 6. Добавил readinessProbe для приложения frontend
 7. *Создал DaemonSet на примере node-exporter
 8. ** Создал DaemonSet на примере node-exporter и для мастер нод
+## Этапы выполнения ДЗ №3
+1. Создана SA bob и добавлена роль admin
+2. Создана SA dave
+3. Создан NS prometheus
+4. Создан SA carol
+5. Настройка SA для NS prometheus на get, list, watch в отношении Pods
+6. Создане NS dev
+7. Создан SA jane, ken
+8. Настройка роли admin для jane и роли view для ken
