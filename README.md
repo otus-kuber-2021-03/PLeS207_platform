@@ -26,3 +26,7 @@ PLeS207 Platform repository
 6. Создане NS dev
 7. Создан SA jane, ken
 8. Настройка роли admin для jane и роли view для ken
+## Этапы выполнения ДЗ №4
+1. Создание секрета для StatefulSet MinIO
+2. Созданеие Stateful-Set
+3. Создание Service для MinIO
